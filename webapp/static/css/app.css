@@ -1,0 +1,63 @@
+body {
+	text-align: center;
+	color: black;
+	background: white;
+}
+
+p {
+	font-weight: bold;
+}
+
+.info {
+	overflow: hidden;
+}
+
+#code {
+	text-align: left;
+	color: #00ff00;
+	height: 38%;
+	width: 100%;
+	background: black;
+}
+
+textarea {
+	color: #00ff00;
+	font-size: 1.2em;
+	font-weight: bold;
+	height: 78%;
+	width: 100%;
+	border: none;
+	padding: 0 10px;
+	background: black;
+}
+
+#button1 {
+	color: white;
+	font-size: 1.2em;
+	font-weight: bold;
+	border-radius: 1.5em;
+	background: green;
+	margin-right: 5px;
+}
+
+
+#button2 {
+	color: white;
+	font-size: 1.2em;
+	font-weight: bold;
+	border-radius: 1.5em;
+	background: blue;
+	margin-left: 5px;
+}
+
+#result {
+	text-align: left;
+	color: #0000ff;
+	min-height: 38%;
+	width: 100%;
+	background: black;
+}
+
+#result p {
+	font-size: 1.5em;
+}
