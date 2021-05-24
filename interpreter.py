@@ -34,7 +34,7 @@ def run(code):
         elif sym == '.':
             data.append(chr(bf[x]))
         elif sym == ',':
-            return "Error: Command `'` is currently down"
+            return "Error: Command `,` is currently down"
         elif sym == '[':
             if not bf[x]: i = blocks[i]
         elif sym == ']':

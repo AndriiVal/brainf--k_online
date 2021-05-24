@@ -1,13 +1,14 @@
 Brainf++k online
 -----------------
 Web App Brainfuck Intepreter using Flask and JQuery
+ * Command `,` is currently down
 
 ![brainf++k](./brainf++k.png)
 
 Live Demo
 ----------
 [Brainfuck Intepreter App demo](https://brainf--k-online.herokuapp.com)
- * Command `'` is currently down
+
 
 Requires
 -------------
