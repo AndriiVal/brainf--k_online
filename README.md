@@ -1,14 +1,14 @@
 Brainf++k online
 -----------------
 Web App Brainfuck Intepreter using Flask and JQuery
- * Command `,` is currently down
 
 ![brainf++k](./brainf++k.png)
+
+ * Command `,` is currently down
 
 Live Demo
 ----------
 [Brainfuck Intepreter App demo](https://brainf--k-online.herokuapp.com)
-
 
 Requires
 -------------
@@ -22,13 +22,11 @@ Initializing the Flask
 ----------------------
  * set FLASK_APP=brainf++k.py
 
-
 Run App
 -------
 * flask run
 
  open http://127.0.0.1:5000/
-
 
 Exemple
 -------
