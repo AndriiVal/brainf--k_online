@@ -2,7 +2,7 @@ Brainf++k online
 -----------------
 Web App Brainfuck Intepreter
 
-![brainf++k](./site.png)
+![brainf++k](./brainf++k.png)
 
 Live Demo
 ----------
