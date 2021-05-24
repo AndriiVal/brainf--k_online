@@ -1,6 +1,6 @@
 Brainf++k online
 -----------------
-Web App Brainfuck Intepreter using Flask and JQuery
+Web App Brainfuck Interpreter using Flask and JQuery
 
 ![brainf++k](./brainf++k.png)
 
@@ -8,7 +8,7 @@ Web App Brainfuck Intepreter using Flask and JQuery
 
 Live Demo
 ----------
-[Brainfuck Intepreter App demo](https://brainf--k-online.herokuapp.com)
+[Brainfuck Interpreter App demo](https://brainf--k-online.herokuapp.com)
 
 Requires
 -------------
