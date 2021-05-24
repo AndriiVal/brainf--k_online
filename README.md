@@ -6,7 +6,7 @@ Web App Brainfuck Intepreter
 
 Live Demo
 ----------
-[Brainfuck Intepreter App demo]()
+[Brainfuck Intepreter App demo](https://brainf--k-online.herokuapp.com)
 
 Requires
 -------------
@@ -18,7 +18,7 @@ Python Modules
 
 Initializing the Flask
 ----------------------
- * set FLASK_APP=braf++k.py
+ * set FLASK_APP=brainf++k.py
 
 
 Run App
@@ -26,3 +26,11 @@ Run App
 * flask run
 
  open http://127.0.0.1:5000/
+
+
+Exemple
+-------
+Input: ++++++++++[>+++++++>++++++++++>+++>+<<<<-]>++.>+.+++++++..+++.>++.<<+++++++++++++++.>.+++.------.--------.
+Output: "Hello World!"
+
+
