@@ -1,12 +1,13 @@
 Brainf++k online
 -----------------
-Web App Brainfuck Intepreter
+Web App Brainfuck Intepreter using Flask and JQuery
 
 ![brainf++k](./brainf++k.png)
 
 Live Demo
 ----------
 [Brainfuck Intepreter App demo](https://brainf--k-online.herokuapp.com)
+ * Command `'` is currently down
 
 Requires
 -------------
@@ -30,7 +31,7 @@ Run App
 
 Exemple
 -------
-Input: ++++++++++[>+++++++>++++++++++>+++>+<<<<-]>++.>+.+++++++..+++.>++.<<+++++++++++++++.>.+++.------.--------.
-Output: "Hello World!"
+ * Input: ++++++++++[>+++++++>++++++++++>+++>+<<<<-]>++.>+.+++++++..+++.>++.<<+++++++++++++++.>.+++.------.--------.
+ * Output: "Hello World!"
 
 
