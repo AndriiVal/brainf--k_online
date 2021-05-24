@@ -1,0 +1,1 @@
+web: gunicorn brainf++k:app
