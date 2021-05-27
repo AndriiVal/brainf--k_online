@@ -4,7 +4,11 @@ $("#button1").click(function() {
 			js_data: JSON.stringify({ "code":code})
 		},
 		function(data) {
-			$('#result').append(`<p>${JSON.stringify(data.result, null, 2)}</p>`);
+			if (data.result === '') {
+				$('#result').append(`<p>>>></p>`);
+			} else {
+				$('#result').append(`<p>>>>${(data.result)}</p>`);
+			}
 	});
 });
 
